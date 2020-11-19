@@ -6,7 +6,7 @@ function init(){
    y=document.getElementsByTagName("h2").item(0).innerHTML;
    s=document.getElementById("entryinput").vlaue;
    document.getElementById("textoutput").innerHTML=s;
-   alert(y+":"+s);
+   alert(Youdi Chen+":"+s);
 }
   window.addEventListener('load', init);
 }
