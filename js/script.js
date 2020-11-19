@@ -3,6 +3,6 @@ function init(){
  
   var s=document.getElementById("entryinput").vlaue;
   document.getElementById("textoutput").innerHTML=s;
-  alert(m+":"+s);
+
 }
   window.addEventListener('load', init);
